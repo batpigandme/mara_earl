@@ -1,6 +1,6 @@
 # Mara EARL
 
-## 📽
+## Slides 📽
 * Full-resolution pdf [slides](https://github.com/batpigandme/mara_earl/blob/master/mara_earl_slides.pdf)
 * Slides on [Speaker Deck](https://speakerdeck.com/batpigandme/learning-out-loud-earl-boston-2017)
 
